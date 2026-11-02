@@ -3,5 +3,9 @@ name = "data-mining-and-python-b1130151"
 version = "0.1.0"
 requires-python = ">=3.11"
 dependencies = [
+    "ipykernel>=7.4.0",
+    "ipympl>=0.10.0",
     "numpy>=2.4.6",
+    "scipy>=1.17.1",
+    "seaborn>=0.13.2",
 ]
